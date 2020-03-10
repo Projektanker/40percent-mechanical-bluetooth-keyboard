@@ -6,6 +6,7 @@
 
 ## Links
   - [40percent.club](http://www.40percent.club/)
+  - [Bluefruit nRF52 Feather Learning Guide](https://learn.adafruit.com/bluefruit-nrf52-feather-learning-guide/introduction)
   - [Adafruit_nRF52_Arduino on GitHub](https://github.com/adafruit/Adafruit_nRF52_Arduino)
     - [HID keyscan](https://github.com/adafruit/Adafruit_nRF52_Arduino/tree/master/libraries/Bluefruit52Lib/examples/Peripheral/hid_keyscan)
     - [HID keyboard](https://github.com/adafruit/Adafruit_nRF52_Arduino/tree/master/libraries/Bluefruit52Lib/examples/Peripheral/hid_keyboard)
