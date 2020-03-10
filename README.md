@@ -1,4 +1,4 @@
-# 40 % mechanical bluetooth keyboard
+# 40% mechanical bluetooth keyboard
 
 ## Parts
   - [Adafruit Feather nRF52 Bluefruit LE - nRF52832](https://www.adafruit.com/product/3406)
