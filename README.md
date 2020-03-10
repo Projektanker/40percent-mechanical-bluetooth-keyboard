@@ -1,7 +1,7 @@
 # 40 % mechanical bluetooth keyboard
 
 ## Parts
-  - [Adafruit Feather nRF52 Bluefruit LE](https://www.adafruit.com/product/3406)
+  - [Adafruit Feather nRF52 Bluefruit LE - nRF52832](https://www.adafruit.com/product/3406)
   - [Cherry MX1B-L2NA](https://www.cherrymx.de/mx-low-profile/mx-low-profile-red.html)  
 
 ## Links
