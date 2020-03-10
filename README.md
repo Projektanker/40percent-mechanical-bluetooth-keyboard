@@ -10,3 +10,4 @@
   - [Adafruit_nRF52_Arduino on GitHub](https://github.com/adafruit/Adafruit_nRF52_Arduino)
     - [HID keyscan](https://github.com/adafruit/Adafruit_nRF52_Arduino/tree/master/libraries/Bluefruit52Lib/examples/Peripheral/hid_keyscan)
     - [HID keyboard](https://github.com/adafruit/Adafruit_nRF52_Arduino/tree/master/libraries/Bluefruit52Lib/examples/Peripheral/hid_keyboard)
+  - [Low power mode](https://forums.adafruit.com/viewtopic.php?f=24&t=128823)
